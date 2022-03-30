@@ -28,3 +28,12 @@ func main() {
 }
 
 ```
+
+Output :
+
+```
+$ ./example
+
+StV1DL6CwTryKyV
+hello world
+```
