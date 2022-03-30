@@ -1,4 +1,4 @@
-package demo
+package main
 
 import (
     "github.com/odatam/base58" 
